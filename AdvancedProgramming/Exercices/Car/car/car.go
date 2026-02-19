@@ -1,13 +1,13 @@
 package car
 
 type Car struct {
-	Model string
+	model string
 }
 
 func (c *Car) SetModel(model string) {
-	c.Model = model
+	c.model = model
 }
 
 func (c Car) GetModel() string {
-	return c.Model
+	return c.model
 }
