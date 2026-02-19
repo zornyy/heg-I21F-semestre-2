@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StreamDream>
+    <Videos>
+        <Video>
+            <Type>Show</Type>
+            <Name>Breaking Bad</Name>
+            <Distribution>
+                <Role>
+                    <Nom>Walter White</Nom>
+                    <Acteur>Bryan Cranston</Acteur>
+                </Role>
+                <Role>
+                    <Nom>Jessie Pinkman</Nom>
+                    <Acteur>Aaron Paul</Acteur>
+                </Role>
+            </Distribution>
+        </Video>
+        <Video>
+            <Type>Show</Type>
+            <Name>Better call saul</Name>
+            <Distribution>
+                <Role>
+                    <Nom>Walter White</Nom>
+                    <Acteur>Bryan Cranston</Acteur>
+                </Role>
+                <Role>
+                    <Nom>Jessie Pinkman</Nom>
+                    <Acteur>Aaron Paul</Acteur>
+                </Role>
+            </Distribution>
+        </Video>
+        <Video>
+            <Type>Movie</Type>
+            <Name>Top Gun</Name>
+            <Distribution>
+                <Role>
+                    <Nom>Pete 'Maverick' Mitchell</Nom>
+                    <Acteur>Tom Cruise</Acteur>
+                </Role>
+                <Role>
+                    <Nom>Kelly McGillis</Nom>
+                    <Acteur>Charlotte 'Charlie' Blackwoods</Acteur>
+                </Role>
+            </Distribution>
+        </Video>
+    </Videos>
+</StreamDream>
